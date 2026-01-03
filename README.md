@@ -17,7 +17,7 @@ Always open to connect, collaborate, and learn
 
 ## 📂 Projects
 
-### Restaurant Website (Work in Progress)
+### Restaurant Website 
 - *Description:* A React.js frontend website  
 - *Tech:* React.js, CSS   
 - *Status:* Actively developing new features and improving UX/UI  
