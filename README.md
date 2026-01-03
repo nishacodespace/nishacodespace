@@ -1,8 +1,8 @@
 ## Hi, I'm Nisha Mishra 👋
 
-MCA Student | Aspriring Full Stack Developer
-Currently working on a React.js frontend project
-Exploring Web Development, Java, Open Source Contributions
+MCA Student | Aspriring Full Stack Developer |
+Currently working on a React.js frontend project |
+Exploring Web Development, Java, Open Source Contributions |
 Always open to connect, collaborate, and learn
 
 ---
